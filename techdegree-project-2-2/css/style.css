@@ -146,6 +146,11 @@ footer {
     .profile p{
         text-align: left;
     }
+    
+    .container {
+        max-height: 420px;
+        margin-bottom: 3em;
+    }
 
     .marketing {
         float: left;
@@ -238,6 +243,10 @@ footer {
     .white {
         width: 90%;
         margin: 0 auto;
+    }
+    
+    .container {
+        min-height: 420px;
     }
 
     .marketing {
